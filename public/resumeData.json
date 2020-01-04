@@ -1,0 +1,72 @@
+{
+  "main": {
+    "name":"Markos Tzetzis",
+    "occupation":"Software Developer",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Feel free to contact me.",
+    "email": "mtzetzis@gmail.com",
+    "phone": "+306987722079",
+    "address":{
+      "street":"125 Rue de Theonville",
+      "city":"Luxemburg",
+      "state":"Luxemburg",
+      "zip": "2611"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tzetzismarkos/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tz3tzis",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"stackoverflow",
+        "url":"https://stackoverflow.com/users/10441922/markos-tzetzis",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
